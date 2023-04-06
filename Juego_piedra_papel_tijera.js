@@ -35,6 +35,4 @@ if(player == enemigo){
 } else if (player == 2 && enemigo == 1){
     alert ("Ganaste")
 } else {
-    alert ("Perdiste")}  
-
-    // prueba.
+    alert ("Perdiste")}
